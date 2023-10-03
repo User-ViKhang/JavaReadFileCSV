@@ -46,6 +46,9 @@ public class Read_CSV extends HandleReadFile<CSV_DTO>{
     protected void processFile(List<CSV_DTO> data) {
         System.out.println("Function 1: ");
         data.forEach(System.out::println);
+        System.out.println("Function 2: ");
+        long totalCapital = data.stream().filter(item -> item.getCountry().equals("CH") && item.isHeadQuarter()).mapToLong(item -> item.getCapital()).sum();
+        System.out.println("Total value Capital with Country = CH: " + totalCapital);
 
     }
 }
