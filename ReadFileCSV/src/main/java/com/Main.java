@@ -11,5 +11,8 @@ public class Main {
         System.out.println("Hello");
         System.out.println("Sài git lần 2");
         System.out.println("Sua code demo");
+        int a = 8;
+        int b = 5;
+        System.out.println(a + b);
     }
 }
