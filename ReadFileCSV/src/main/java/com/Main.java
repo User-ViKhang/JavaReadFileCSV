@@ -10,10 +10,6 @@ public class Main {
         readFile.readFileCSV("companies.csv");
         System.out.println("Hello");
         System.out.println("Sài git lần 2");
-        System.out.println("Sua code demo");
-        int a = 8;
-        int b = 5;
-        System.out.println("Sua code feature-test");
-        System.out.println(a + b);
+
     }
 }
