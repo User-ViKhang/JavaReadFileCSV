@@ -9,6 +9,11 @@ public class Main {
     public static void main(String[] args) throws IOException {
         readFile.readFileCSV("companies.csv");
         System.out.println("Hello");
-
+        System.out.println("Sài git lần 2");
+        System.out.println("Sua code demo");
+        int a = 8;
+        int b = 5;
+        System.out.println(a + b);
+        System.out.println("This is text in main branch");
     }
 }   
