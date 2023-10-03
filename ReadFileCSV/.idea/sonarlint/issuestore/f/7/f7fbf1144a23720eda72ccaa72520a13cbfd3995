@@ -14,9 +14,5 @@ U
 java:S6213":Rename this variable to not match a restricted identifier.(±­°üýÿÿÿÿ
 W
 java:S1161.":Add the "@Override" annotation above this method signature(ùÑÃÝ8…ŠžŠ¯1
-<<<<<<< HEAD
-G	java:S106/"+Replace this use of System.out by a logger.(¢È¶ú8óŸ¶¦¯1
-=======
-@	java:S106/"+Replace this use of System.out by a logger.(¾¢Ý°
-G	java:S1060"+Replace this use of System.out by a logger.(¢È¶ú8¥üžŠ¯1
->>>>>>> 437e23c3895db4feb3480d63fc656780ff5cd815
+G	java:S106/"+Replace this use of System.out by a logger.(¾¢Ý°8ü’ò¦¯1
+G	java:S1060"+Replace this use of System.out by a logger.(¢È¶ú8ü’ò¦¯1
