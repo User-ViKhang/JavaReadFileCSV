@@ -44,6 +44,8 @@ public class Read_CSV extends HandleReadFile<CSV_DTO>{
         return lst;
     }
     protected void processFile(List<CSV_DTO> data) {
+        System.out.println("Function 1: ");
         data.forEach(System.out::println);
+
     }
 }

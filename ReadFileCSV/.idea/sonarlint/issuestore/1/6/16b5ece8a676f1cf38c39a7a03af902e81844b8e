@@ -1,0 +1,5 @@
+
+n
+java:S1450"SRemove the "data" field and declare it as a local variable in the relevant methods.(έπƒόÿÿÿÿ
+‚
+java:S1130"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(σ²Β 
